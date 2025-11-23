@@ -1,0 +1,884 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.5,
+                31.0
+            ]
+        },
+        "properties": {
+            "name": "Giant Panda",
+            "chinese_name": "大熊猫",
+            "status": "Vulnerable",
+            "population": 1596,
+            "habitat": "Mountain bamboo forests, 1200-3400m elevation",
+            "media_caption": "Icon of conservation success. Once down to 1,000 individuals in the 1980s, pandas have recovered thanks to decades of habitat protection and breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.5,
+                31.0
+            ]
+        },
+        "properties": {
+            "name": "Giant Panda",
+            "chinese_name": "大熊猫",
+            "status": "Vulnerable",
+            "population": 1600,
+            "habitat": "Mountain bamboo forests, 1200-3400m elevation",
+            "media_caption": "Icon of conservation success. Once down to 1,000 individuals in the 1980s, pandas have recovered thanks to decades of habitat protection and breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.5,
+                31.0
+            ]
+        },
+        "properties": {
+            "name": "Giant Panda",
+            "chinese_name": "大熊猫",
+            "status": "Vulnerable",
+            "population": 1864,
+            "habitat": "Mountain bamboo forests, 1200-3400m elevation",
+            "media_caption": "Icon of conservation success. Once down to 1,000 individuals in the 1980s, pandas have recovered thanks to decades of habitat protection and breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.5,
+                31.0
+            ]
+        },
+        "properties": {
+            "name": "Giant Panda",
+            "chinese_name": "大熊猫",
+            "status": "Vulnerable",
+            "population": 1800,
+            "habitat": "Mountain bamboo forests, 1200-3400m elevation",
+            "media_caption": "Icon of conservation success. Once down to 1,000 individuals in the 1980s, pandas have recovered thanks to decades of habitat protection and breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.5,
+                31.0
+            ]
+        },
+        "properties": {
+            "name": "Giant Panda",
+            "chinese_name": "大熊猫",
+            "status": "Vulnerable",
+            "population": 1900,
+            "habitat": "Mountain bamboo forests, 1200-3400m elevation",
+            "media_caption": "Icon of conservation success. Once down to 1,000 individuals in the 1980s, pandas have recovered thanks to decades of habitat protection and breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116.0,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Yangtze Finless Porpoise",
+            "chinese_name": "江豚",
+            "status": "Critically Endangered",
+            "population": 1800,
+            "habitat": "Yangtze River main stem, Poyang Lake, Dongting Lake",
+            "media_caption": "World's only freshwater porpoise. Lives in Yangtze River and connected lakes. Critically endangered with accelerating decline due to human river activities."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116.0,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Yangtze Finless Porpoise",
+            "chinese_name": "江豚",
+            "status": "Critically Endangered",
+            "population": 1045,
+            "habitat": "Yangtze River main stem, Poyang Lake, Dongting Lake",
+            "media_caption": "World's only freshwater porpoise. Lives in Yangtze River and connected lakes. Critically endangered with accelerating decline due to human river activities."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116.0,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Yangtze Finless Porpoise",
+            "chinese_name": "江豚",
+            "status": "Critically Endangered",
+            "population": 1012,
+            "habitat": "Yangtze River main stem, Poyang Lake, Dongting Lake",
+            "media_caption": "World's only freshwater porpoise. Lives in Yangtze River and connected lakes. Critically endangered with accelerating decline due to human river activities."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116.0,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Yangtze Finless Porpoise",
+            "chinese_name": "江豚",
+            "status": "Critically Endangered",
+            "population": 1249,
+            "habitat": "Yangtze River main stem, Poyang Lake, Dongting Lake",
+            "media_caption": "World's only freshwater porpoise. Lives in Yangtze River and connected lakes. Shows recovery signs after fishing ban implementation."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.0,
+                28.0
+            ]
+        },
+        "properties": {
+            "name": "South China Tiger",
+            "chinese_name": "华南虎",
+            "status": "Critically Endangered (Possibly Extinct in Wild)",
+            "population": 0,
+            "habitat": "Mountain forests in southern and central China",
+            "media_caption": "Most endangered tiger subspecies. No confirmed wild sightings since 1990s. Only survives in captivity with ~200 individuals in breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.0,
+                28.0
+            ]
+        },
+        "properties": {
+            "name": "South China Tiger",
+            "chinese_name": "华南虎",
+            "status": "Critically Endangered (Possibly Extinct in Wild)",
+            "population": 0,
+            "habitat": "Mountain forests in southern and central China",
+            "media_caption": "Most endangered tiger subspecies. No confirmed wild sightings since 1990s. Only survives in captivity with ~200 individuals in breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.0,
+                28.0
+            ]
+        },
+        "properties": {
+            "name": "South China Tiger",
+            "chinese_name": "华南虎",
+            "status": "Critically Endangered (Possibly Extinct in Wild)",
+            "population": 0,
+            "habitat": "Mountain forests in southern and central China",
+            "media_caption": "Most endangered tiger subspecies. No confirmed wild sightings since 1990s. Only survives in captivity with ~200 individuals in breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.0,
+                28.0
+            ]
+        },
+        "properties": {
+            "name": "South China Tiger",
+            "chinese_name": "华南虎",
+            "status": "Critically Endangered (Possibly Extinct in Wild)",
+            "population": 0,
+            "habitat": "Mountain forests in southern and central China",
+            "media_caption": "Most endangered tiger subspecies. No confirmed wild sightings since 1990s. Only survives in captivity with ~200 individuals in breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.0,
+                28.0
+            ]
+        },
+        "properties": {
+            "name": "South China Tiger",
+            "chinese_name": "华南虎",
+            "status": "Critically Endangered (Possibly Extinct in Wild)",
+            "population": 0,
+            "habitat": "Mountain forests in southern and central China",
+            "media_caption": "Most endangered tiger subspecies. No confirmed wild sightings since 1990s. Only survives in captivity with ~200 individuals in breeding programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105.0,
+                32.5
+            ]
+        },
+        "properties": {
+            "name": "Golden Snub-nosed Monkey",
+            "chinese_name": "川金丝猴",
+            "status": "Endangered",
+            "population": 15000,
+            "habitat": "Mountain forests, 1500-3400m elevation",
+            "media_caption": "Endemic to China. Named for distinctive upturned nose. Lives in mountain forests at high altitudes in family groups."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105.0,
+                32.5
+            ]
+        },
+        "properties": {
+            "name": "Golden Snub-nosed Monkey",
+            "chinese_name": "川金丝猴",
+            "status": "Endangered",
+            "population": 18000,
+            "habitat": "Mountain forests, 1500-3400m elevation",
+            "media_caption": "Endemic to China. Named for distinctive upturned nose. Lives in mountain forests at high altitudes in family groups."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105.0,
+                32.5
+            ]
+        },
+        "properties": {
+            "name": "Golden Snub-nosed Monkey",
+            "chinese_name": "川金丝猴",
+            "status": "Endangered",
+            "population": 20000,
+            "habitat": "Mountain forests, 1500-3400m elevation",
+            "media_caption": "Endemic to China. Named for distinctive upturned nose. Lives in mountain forests at high altitudes in family groups."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105.0,
+                32.5
+            ]
+        },
+        "properties": {
+            "name": "Golden Snub-nosed Monkey",
+            "chinese_name": "川金丝猴",
+            "status": "Endangered",
+            "population": 23000,
+            "habitat": "Mountain forests, 1500-3400m elevation",
+            "media_caption": "Endemic to China. Named for distinctive upturned nose. Lives in mountain forests at high altitudes in family groups."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105.0,
+                32.5
+            ]
+        },
+        "properties": {
+            "name": "Golden Snub-nosed Monkey",
+            "chinese_name": "川金丝猴",
+            "status": "Endangered",
+            "population": 23000,
+            "habitat": "Mountain forests, 1500-3400m elevation",
+            "media_caption": "Endemic to China. Named for distinctive upturned nose. Lives in mountain forests at high altitudes in family groups."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5,
+                33.8
+            ]
+        },
+        "properties": {
+            "name": "Crested Ibis",
+            "chinese_name": "朱鹮",
+            "status": "Endangered",
+            "population": 600,
+            "habitat": "Wetlands, rice paddies, forested areas near water",
+            "media_caption": "Dramatic conservation success. Rediscovered in 1981 with only 7 individuals. Now over 5,000 through intensive breeding and reintroduction programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5,
+                33.8
+            ]
+        },
+        "properties": {
+            "name": "Crested Ibis",
+            "chinese_name": "朱鹮",
+            "status": "Endangered",
+            "population": 1500,
+            "habitat": "Wetlands, rice paddies, forested areas near water",
+            "media_caption": "Dramatic conservation success. Rediscovered in 1981 with only 7 individuals. Now over 5,000 through intensive breeding and reintroduction programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5,
+                33.8
+            ]
+        },
+        "properties": {
+            "name": "Crested Ibis",
+            "chinese_name": "朱鹮",
+            "status": "Endangered",
+            "population": 2000,
+            "habitat": "Wetlands, rice paddies, forested areas near water",
+            "media_caption": "Dramatic conservation success. Rediscovered in 1981 with only 7 individuals. Now over 5,000 through intensive breeding and reintroduction programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5,
+                33.8
+            ]
+        },
+        "properties": {
+            "name": "Crested Ibis",
+            "chinese_name": "朱鹮",
+            "status": "Endangered",
+            "population": 4000,
+            "habitat": "Wetlands, rice paddies, forested areas near water",
+            "media_caption": "Dramatic conservation success. Rediscovered in 1981 with only 7 individuals. Now over 5,000 through intensive breeding and reintroduction programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5,
+                33.8
+            ]
+        },
+        "properties": {
+            "name": "Crested Ibis",
+            "chinese_name": "朱鹮",
+            "status": "Endangered",
+            "population": 5000,
+            "habitat": "Wetlands, rice paddies, forested areas near water",
+            "media_caption": "Dramatic conservation success. Rediscovered in 1981 with only 7 individuals. Now over 5,000 through intensive breeding and reintroduction programs."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90.0,
+                36.0
+            ]
+        },
+        "properties": {
+            "name": "Snow Leopard",
+            "chinese_name": "雪豹",
+            "status": "Vulnerable",
+            "population": 2000,
+            "habitat": "High mountain ranges, 3000-5500m elevation",
+            "media_caption": "Lives in some of Earth's highest mountains. China hosts significant portion of global population. Elusive and rarely seen in wild."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90.0,
+                36.0
+            ]
+        },
+        "properties": {
+            "name": "Snow Leopard",
+            "chinese_name": "雪豹",
+            "status": "Vulnerable",
+            "population": 2100,
+            "habitat": "High mountain ranges, 3000-5500m elevation",
+            "media_caption": "Lives in some of Earth's highest mountains. China hosts significant portion of global population. Elusive and rarely seen in wild."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90.0,
+                36.0
+            ]
+        },
+        "properties": {
+            "name": "Snow Leopard",
+            "chinese_name": "雪豹",
+            "status": "Vulnerable",
+            "population": 2200,
+            "habitat": "High mountain ranges, 3000-5500m elevation",
+            "media_caption": "Lives in some of Earth's highest mountains. China hosts significant portion of global population. Elusive and rarely seen in wild."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90.0,
+                36.0
+            ]
+        },
+        "properties": {
+            "name": "Snow Leopard",
+            "chinese_name": "雪豹",
+            "status": "Vulnerable",
+            "population": 2300,
+            "habitat": "High mountain ranges, 3000-5500m elevation",
+            "media_caption": "Lives in some of Earth's highest mountains. China hosts significant portion of global population. Elusive and rarely seen in wild."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90.0,
+                36.0
+            ]
+        },
+        "properties": {
+            "name": "Snow Leopard",
+            "chinese_name": "雪豹",
+            "status": "Vulnerable",
+            "population": 2400,
+            "habitat": "High mountain ranges, 3000-5500m elevation",
+            "media_caption": "Lives in some of Earth's highest mountains. China hosts significant portion of global population. Elusive and rarely seen in wild."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.5,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Chinese Alligator",
+            "chinese_name": "扬子鳄",
+            "status": "Critically Endangered",
+            "population": 120,
+            "habitat": "Freshwater rivers, lakes, ponds in subtropical lowlands",
+            "media_caption": "World's smallest alligator species and most endangered. Endemic to Yangtze River valley. Wild population extremely small."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.5,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Chinese Alligator",
+            "chinese_name": "扬子鳄",
+            "status": "Critically Endangered",
+            "population": 130,
+            "habitat": "Freshwater rivers, lakes, ponds in subtropical lowlands",
+            "media_caption": "World's smallest alligator species and most endangered. Endemic to Yangtze River valley. Wild population extremely small."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.5,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Chinese Alligator",
+            "chinese_name": "扬子鳄",
+            "status": "Critically Endangered",
+            "population": 150,
+            "habitat": "Freshwater rivers, lakes, ponds in subtropical lowlands",
+            "media_caption": "World's smallest alligator species and most endangered. Endemic to Yangtze River valley. Wild population extremely small."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.5,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Chinese Alligator",
+            "chinese_name": "扬子鳄",
+            "status": "Critically Endangered",
+            "population": 180,
+            "habitat": "Freshwater rivers, lakes, ponds in subtropical lowlands",
+            "media_caption": "World's smallest alligator species and most endangered. Endemic to Yangtze River valley. Wild population extremely small."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.5,
+                30.5
+            ]
+        },
+        "properties": {
+            "name": "Chinese Alligator",
+            "chinese_name": "扬子鳄",
+            "status": "Critically Endangered",
+            "population": 200,
+            "habitat": "Freshwater rivers, lakes, ponds in subtropical lowlands",
+            "media_caption": "World's smallest alligator species and most endangered. Endemic to Yangtze River valley. Wild population extremely small."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100.5,
+                22.0
+            ]
+        },
+        "properties": {
+            "name": "Asian Elephant",
+            "chinese_name": "亚洲象",
+            "status": "Endangered",
+            "population": 250,
+            "habitat": "Tropical forests, grasslands in southern Yunnan",
+            "media_caption": "China's largest terrestrial mammal. Population confined to southern Yunnan near borders. Faces severe habitat pressure."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100.5,
+                22.0
+            ]
+        },
+        "properties": {
+            "name": "Asian Elephant",
+            "chinese_name": "亚洲象",
+            "status": "Endangered",
+            "population": 270,
+            "habitat": "Tropical forests, grasslands in southern Yunnan",
+            "media_caption": "China's largest terrestrial mammal. Population confined to southern Yunnan near borders. Faces severe habitat pressure."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100.5,
+                22.0
+            ]
+        },
+        "properties": {
+            "name": "Asian Elephant",
+            "chinese_name": "亚洲象",
+            "status": "Endangered",
+            "population": 280,
+            "habitat": "Tropical forests, grasslands in southern Yunnan",
+            "media_caption": "China's largest terrestrial mammal. Population confined to southern Yunnan near borders. Faces severe habitat pressure."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100.5,
+                22.0
+            ]
+        },
+        "properties": {
+            "name": "Asian Elephant",
+            "chinese_name": "亚洲象",
+            "status": "Endangered",
+            "population": 300,
+            "habitat": "Tropical forests, grasslands in southern Yunnan",
+            "media_caption": "China's largest terrestrial mammal. Population confined to southern Yunnan near borders. Faces severe habitat pressure."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100.5,
+                22.0
+            ]
+        },
+        "properties": {
+            "name": "Asian Elephant",
+            "chinese_name": "亚洲象",
+            "status": "Endangered",
+            "population": 300,
+            "habitat": "Tropical forests, grasslands in southern Yunnan",
+            "media_caption": "China's largest terrestrial mammal. Population confined to southern Yunnan near borders. Faces severe habitat pressure."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85.0,
+                35.0
+            ]
+        },
+        "properties": {
+            "name": "Tibetan Antelope",
+            "chinese_name": "藏羚羊",
+            "status": "Near Threatened",
+            "population": 75000,
+            "habitat": "High-altitude grasslands and steppes, 3700-5500m",
+            "media_caption": "Lives on Tibetan Plateau. Once heavily poached for extremely fine wool. Strong recovery due to protection efforts."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85.0,
+                35.0
+            ]
+        },
+        "properties": {
+            "name": "Tibetan Antelope",
+            "chinese_name": "藏羚羊",
+            "status": "Near Threatened",
+            "population": 100000,
+            "habitat": "High-altitude grasslands and steppes, 3700-5500m",
+            "media_caption": "Lives on Tibetan Plateau. Once heavily poached for extremely fine wool. Strong recovery due to protection efforts."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85.0,
+                35.0
+            ]
+        },
+        "properties": {
+            "name": "Tibetan Antelope",
+            "chinese_name": "藏羚羊",
+            "status": "Near Threatened",
+            "population": 150000,
+            "habitat": "High-altitude grasslands and steppes, 3700-5500m",
+            "media_caption": "Lives on Tibetan Plateau. Once heavily poached for extremely fine wool. Strong recovery due to protection efforts."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85.0,
+                35.0
+            ]
+        },
+        "properties": {
+            "name": "Tibetan Antelope",
+            "chinese_name": "藏羚羊",
+            "status": "Near Threatened",
+            "population": 180000,
+            "habitat": "High-altitude grasslands and steppes, 3700-5500m",
+            "media_caption": "Lives on Tibetan Plateau. Once heavily poached for extremely fine wool. Strong recovery due to protection efforts."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85.0,
+                35.0
+            ]
+        },
+        "properties": {
+            "name": "Tibetan Antelope",
+            "chinese_name": "藏羚羊",
+            "status": "Near Threatened",
+            "population": 200000,
+            "habitat": "High-altitude grasslands and steppes, 3700-5500m",
+            "media_caption": "Lives on Tibetan Plateau. Once heavily poached for extremely fine wool. Strong recovery due to protection efforts."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109.7,
+                19.2
+            ]
+        },
+        "properties": {
+            "name": "Hainan Gibbon",
+            "chinese_name": "海南长臂猿",
+            "status": "Critically Endangered",
+            "population": 13,
+            "habitat": "Tropical rainforests of Hainan Island",
+            "media_caption": "World's rarest primate. Found only on Hainan Island. Population dropped from 2,000 in 1950s to fewer than 40 individuals today."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109.7,
+                19.2
+            ]
+        },
+        "properties": {
+            "name": "Hainan Gibbon",
+            "chinese_name": "海南长臂猿",
+            "status": "Critically Endangered",
+            "population": 25,
+            "habitat": "Tropical rainforests of Hainan Island",
+            "media_caption": "World's rarest primate. Found only on Hainan Island. Population dropped from 2,000 in 1950s to fewer than 40 individuals today."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109.7,
+                19.2
+            ]
+        },
+        "properties": {
+            "name": "Hainan Gibbon",
+            "chinese_name": "海南长臂猿",
+            "status": "Critically Endangered",
+            "population": 28,
+            "habitat": "Tropical rainforests of Hainan Island",
+            "media_caption": "World's rarest primate. Found only on Hainan Island. Population dropped from 2,000 in 1950s to fewer than 40 individuals today."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109.7,
+                19.2
+            ]
+        },
+        "properties": {
+            "name": "Hainan Gibbon",
+            "chinese_name": "海南长臂猿",
+            "status": "Critically Endangered",
+            "population": 33,
+            "habitat": "Tropical rainforests of Hainan Island",
+            "media_caption": "World's rarest primate. Found only on Hainan Island. Population dropped from 2,000 in 1950s to fewer than 40 individuals today."
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109.7,
+                19.2
+            ]
+        },
+        "properties": {
+            "name": "Hainan Gibbon",
+            "chinese_name": "海南长臂猿",
+            "status": "Critically Endangered",
+            "population": 37,
+            "habitat": "Tropical rainforests of Hainan Island",
+            "media_caption": "World's rarest primate. Found only on Hainan Island. Population dropped from 2,000 in 1950s to fewer than 40 individuals today."
+        }
+    }
+]
