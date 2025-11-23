@@ -32,6 +32,8 @@ The current prototype utilizes a hybrid approach: structured data processing via
 │
 ├── requirements.txt          # Python dependencies for reproduction
 └── README.md                 # Project documentation and replication steps
+```
+
 ## 3. Environment and Dependencies
 
 While the final prototype is hosted online, the data exploration and experimental visualization phase relied on a Python environment.
