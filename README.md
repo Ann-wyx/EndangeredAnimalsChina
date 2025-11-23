@@ -77,7 +77,7 @@ To replicate the development environment and run the experimental visualization 
 As this is an interim prototype focusing on narrative and visualization, the "build" is served via the StoryMapJS platform using assets prepared in this repository.
 
 ### **>>> [Click Here to View the Interactive Prototype] <<<**
-*(Please replace this text with your actual StoryMapJS share link, e.g., https://uploads.knightlab.com/storymapjs/...)*
+https://uploads.knightlab.com/storymapjs/e70484667d66dd1b0a57d72cd0a99253/endangeredanimalschina/index.html
 
 ### Prototype Construction Workflow:
 The prototype was constructed by combining elements stored in this repository:
